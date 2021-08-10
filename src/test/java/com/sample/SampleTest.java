@@ -41,9 +41,19 @@ public class SampleTest {
 	}
 
 	@Test
+	private void tc07() {
+		System.out.println("Method 7");
+	}
+
+	@Test
+	private void tc08() {
+		System.out.println("Method 8");
+
+	}
+
+	@Test
 	private void tc09() {
 		System.out.println("Method 9");
-
 	}
 
 	@Test
