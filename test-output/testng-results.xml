@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="226" started-at="2021-08-10T18:42:45Z" finished-at="2021-08-10T18:42:45Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="226" started-at="2021-08-10T18:42:45Z" finished-at="2021-08-10T18:42:45Z">
+      <class name="com.sample.SampleTest">
+        <test-method status="PASS" signature="tc01()[pri:0, instance:com.sample.SampleTest@42d80b78]" name="tc01" duration-ms="28" started-at="2021-08-10T18:42:45Z" finished-at="2021-08-10T18:42:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc01 -->
+        <test-method status="PASS" signature="tc02()[pri:0, instance:com.sample.SampleTest@42d80b78]" name="tc02" duration-ms="9" started-at="2021-08-10T18:42:45Z" finished-at="2021-08-10T18:42:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc02 -->
+        <test-method status="PASS" signature="tc03()[pri:0, instance:com.sample.SampleTest@42d80b78]" name="tc03" duration-ms="19" started-at="2021-08-10T18:42:45Z" finished-at="2021-08-10T18:42:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc03 -->
+        <test-method status="PASS" signature="tc04()[pri:0, instance:com.sample.SampleTest@42d80b78]" name="tc04" duration-ms="7" started-at="2021-08-10T18:42:45Z" finished-at="2021-08-10T18:42:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc04 -->
+        <test-method status="PASS" signature="tc05()[pri:0, instance:com.sample.SampleTest@42d80b78]" name="tc05" duration-ms="19" started-at="2021-08-10T18:42:45Z" finished-at="2021-08-10T18:42:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc05 -->
+        <test-method status="PASS" signature="tc06()[pri:0, instance:com.sample.SampleTest@42d80b78]" name="tc06" duration-ms="8" started-at="2021-08-10T18:42:45Z" finished-at="2021-08-10T18:42:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc06 -->
+      </class> <!-- com.sample.SampleTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
