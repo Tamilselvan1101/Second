@@ -20,19 +20,36 @@ public class SampleTest {
 	private void tc03() {
 		System.out.println("Method 3");
 
-	}@Test
+	}
+
+	@Test
 	private void tc04() {
 		System.out.println("Method 4");
 
-	}@Test
+	}
+
+	@Test
 	private void tc05() {
 		System.out.println("Method 5");
 
-	}@Test
+	}
+
+	@Test
 	private void tc06() {
 		System.out.println("Method 6");
 
 	}
-	
-	
+
+	@Test
+	private void tc09() {
+		System.out.println("Method 9");
+
+	}
+
+	@Test
+	private void tc10() {
+		System.out.println("Method 10");
+
+	}
+
 }
